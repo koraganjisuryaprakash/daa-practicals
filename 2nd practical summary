@@ -1,0 +1,5 @@
+This program implements both Linear Search and Binary Search to find a given element in a list.
+It takes user input, searches for the element, and displays its index if found.
+Binary Search first sorts the list before performing the search.
+The execution time of each search algorithm is measured using time.perf_counter().
+It also displays the time and space complexity of both searching methods.
