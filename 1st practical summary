@@ -1,0 +1,1 @@
+This implements Bubble, Quick, Insertion, Selection, and Merge Sort in Python. It takes user input, sorts the elements, measures execution time, and displays the sorted array along with the time complexity of each algorithm.
